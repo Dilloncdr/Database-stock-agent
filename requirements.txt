@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+rapidfuzz
+pandas
+pyautogui
+pyperclip
+psutil
+openpyxl
